@@ -1,4 +1,17 @@
-## Hi there 👋
+# **About me**
+
+- I'm a freshman at [UC Irvine](ics.uci.edu) majoring in Computer Science.  
+- I'm experienced with competitive programming and am currently working on developing some projects.
+- How to reach me: waynesmat@gmail.com
+- Pronouns: He / Him
+
+# **Programming Languages**
+
+- C++: Proficient
+- Python: Proficient
+- Java: Competent
+- HTML: Competent
+- CSS: Competent
 
 <!--
 **Waynesmat/Waynesmat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
